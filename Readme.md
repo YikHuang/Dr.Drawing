@@ -1,5 +1,8 @@
 # Dr. Drawing
 
+![Snipaste_2021-12-13_02-12-16](https://user-images.githubusercontent.com/96031665/145793429-a11c348f-2ee9-4e90-a30a-43465a816532.png)
+
+
 ## Game Rule
 
 - 7 questions per round
