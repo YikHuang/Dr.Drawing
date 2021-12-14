@@ -6,7 +6,7 @@
 ## Game Rule
 
 - 7 questions per round
-- You draw, computer guess
+- You draw, computer guesses
 
 
 
